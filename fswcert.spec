@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Networking/Daemons
 Source0:	http://www.strongsec.com/freeswan/%{name}-%{version}.tar.gz
+# Source0-md5:	db202a0b83ee9299efb55b7f7ab1781e
 URL:		http://www.strongsec.com/freeswan/
 BuildRequires:	openssl-devel >= 0.9.7
 Requires:	freeswan
