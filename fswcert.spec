@@ -1,5 +1,5 @@
 Summary:	Extract FreeS/WAN ipsec keys from X.509 format certificates
-Summary(pl):	Narzêdzie tworz±ce klucze ipsec z certyfikatów X.509
+Summary(pl.UTF-8):   NarzÄ™dzie tworzÄ…ce klucze ipsec z certyfikatÃ³w X.509
 Name:		fswcert
 Version:	0.6
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Utility to extract FreeS/WAN RSA keys from X.509 format certificates.
 
-%description -l pl
-Narzêdzie tworz±ce klucze RSA do FreeS/WAN z certyfikatów w formacie
+%description -l pl.UTF-8
+NarzÄ™dzie tworzÄ…ce klucze RSA do FreeS/WAN z certyfikatÃ³w w formacie
 X.509.
 
 %prep
