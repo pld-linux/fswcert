@@ -1,5 +1,5 @@
 Summary:	Extract FreeS/WAN ipsec keys from X.509 format certificates
-Summary(pl.UTF-8):   Narzędzie tworzące klucze ipsec z certyfikatów X.509
+Summary(pl.UTF-8):	Narzędzie tworzące klucze ipsec z certyfikatów X.509
 Name:		fswcert
 Version:	0.6
 Release:	1
